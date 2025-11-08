@@ -1,8 +1,8 @@
-# Juryj Czyźkōw
+# <span style="color:white">Juryj Czyźkōw</span>
 
-## Beginner graphics designer
+## <span style="color:white">Beginner Graphics Designer</span>
 
-- C1 in English , Native Czech , Some Silesian
-- Developer of Nexus Client
+- <span style="color:white">B2 English , Native Czech</span>
+- <span style="color:white">Developer of Nexus Client</span>
 
 <body style="background-color: black;">
