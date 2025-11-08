@@ -5,4 +5,4 @@
 - C1 in English , Native Czech , Some Silesian
 - Developer of Nexus Client
 
-<body style="background-color: lightblue;">
+<body style="background-color: black;">
